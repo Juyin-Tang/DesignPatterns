@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment02_AbstractFactory/Assignment02_AbstractFactory.iml" filepath="$PROJECT_DIR$/Assignment02_AbstractFactory/Assignment02_AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment03_Composite/Assignment03_Composite.iml" filepath="$PROJECT_DIR$/Assignment03_Composite/Assignment03_Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment04_Observer/Assignment04_Observer.iml" filepath="$PROJECT_DIR$/Assignment04_Observer/Assignment04_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment05_Singleton/Assignment05_Singleton.iml" filepath="$PROJECT_DIR$/Assignment05_Singleton/Assignment05_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
     </modules>
   </component>
