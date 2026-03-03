@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment05_Singleton/Assignment05_Singleton.iml" filepath="$PROJECT_DIR$/Assignment05_Singleton/Assignment05_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment06_Decorator/Assignment06_Decorator.iml" filepath="$PROJECT_DIR$/Assignment06_Decorator/Assignment06_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment07_State/Assignment07_State.iml" filepath="$PROJECT_DIR$/Assignment07_State/Assignment07_State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment09_Strategy/Assignment09_Strategy.iml" filepath="$PROJECT_DIR$/Assignment09_Strategy/Assignment09_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment10_ChainofResponsibility./Assignment10_ChainofResponsibility..iml" filepath="$PROJECT_DIR$/Assignment10_ChainofResponsibility./Assignment10_ChainofResponsibility..iml" />
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
     </modules>
   </component>
