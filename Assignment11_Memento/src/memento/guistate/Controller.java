@@ -44,7 +44,6 @@ public class Controller {
         return model.getIsSelected();
     }
 
-    // 撤销
     public void undo() {
         if (history.size() > 1) {
             IMemento current = model.createMemento();
@@ -62,11 +61,9 @@ public class Controller {
 
     public void redo() {
         if (!redoList.isEmpty()) {
-            // 将当前状态存入历史（以便之后可以再次撤销到这个状态）
             IMemento current = model.createMemento();
             history.add(current);
 
-            // 从重做列表取出最后一个状态
             IMemento next = redoList.remove(redoList.size() - 1);
             model.restoreState(next);
             gui.updateGui();
