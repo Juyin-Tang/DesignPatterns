@@ -25,7 +25,7 @@ public class Controller {
     }
 
     public void setOption(int optionNumber, int choice) {
-        saveToHistory();         // 先保存修改前的状态
+        saveToHistory();
         model.setOption(optionNumber, choice);
         gui.updateGui();
     }
